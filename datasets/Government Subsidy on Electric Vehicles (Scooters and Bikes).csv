@@ -1,0 +1,17 @@
+﻿State,Subsidy (Per kWh),Maximum subsidy,Discount on road tax
+Maharashtra,"Rs. 5,000","Rs. 25,000",100%
+Meghalaya,"Rs. 10,000","Rs. 20,000",100%
+Gujarat,"Rs. 10,000","Rs. 20,000",50%
+Assam,"Rs. 10,000","Rs. 20,000",100%
+Bihar,"Rs. 10,000","Rs. 20,000",100%
+West Bengal,"Rs. 10,000","Rs. 20,000",100%
+Rajasthan,"Rs. 2,500","Rs. 10,000",NA
+Odisha,NA,"Rs. 5,000",100%
+Uttar Pradesh,Nil,Nil,100%
+Kerala,Nil,Nil,50%
+Karnataka,Nil,Nil,100%
+Tamil Nadu,Nil,Nil,100%
+Telangana,Nil,Nil,100%
+Madhya Pradesh,Nil,Nil,99%
+Andhra Pradesh,Nil,Nil,100%
+Punjab,Nil,Nil,100%

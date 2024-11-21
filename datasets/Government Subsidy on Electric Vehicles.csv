@@ -1,0 +1,33 @@
+﻿State,Subsidy (Per kWh),Maximum subsidy,Discount on road tax,Category
+Maharashtra,"Rs. 5,000","Rs. 2,50,000",100%,4-Wheelers
+Gujarat,"Rs. 10,000","Rs. 1,50,000",50%,4-Wheelers
+Meghalaya,"Rs. 4,000","Rs. 60,000",100%,4-Wheelers
+Assam,"Rs. 10,000","Rs. 1,50,000",100%,4-Wheelers
+Bihar,"Rs. 10,000","Rs. 1,50,000",100%,4-Wheelers
+West Bengal,"Rs. 10,000","Rs. 1,50,000",100%,4-Wheelers
+Odisha,NA,"Rs. 1,00,000",100%,4-Wheelers
+Rajasthan,Nil,Nil,NA,4-Wheelers
+Uttar Pradesh,Nil,Nil,75%,4-Wheelers
+Kerala,Nil,Nil,50%,4-Wheelers
+Karnataka,Nil,Nil,100%,4-Wheelers
+Tamil Nadu,Nil,Nil,100%,4-Wheelers
+Telangana,Nil,Nil,100%,4-Wheelers
+Madhya Pradesh,Nil,Nil,99%,4-Wheelers
+Andhra Pradesh,Nil,Nil,100%,4-Wheelers
+Punjab,Nil,Nil,100%,4-Wheelers
+Maharashtra,"Rs. 5,000","Rs. 25,000",100%,2-Wheelers
+Meghalaya,"Rs. 10,000","Rs. 20,000",100%,2-Wheelers
+Gujarat,"Rs. 10,000","Rs. 20,000",50%,2-Wheelers
+Assam,"Rs. 10,000","Rs. 20,000",100%,2-Wheelers
+Bihar,"Rs. 10,000","Rs. 20,000",100%,2-Wheelers
+West Bengal,"Rs. 10,000","Rs. 20,000",100%,2-Wheelers
+Rajasthan,"Rs. 2,500","Rs. 10,000",NA,2-Wheelers
+Odisha,NA,"Rs. 5,000",100%,2-Wheelers
+Uttar Pradesh,Nil,Nil,100%,2-Wheelers
+Kerala,Nil,Nil,50%,2-Wheelers
+Karnataka,Nil,Nil,100%,2-Wheelers
+Tamil Nadu,Nil,Nil,100%,2-Wheelers
+Telangana,Nil,Nil,100%,2-Wheelers
+Madhya Pradesh,Nil,Nil,99%,2-Wheelers
+Andhra Pradesh,Nil,Nil,100%,2-Wheelers
+Punjab,Nil,Nil,100%,2-Wheelers
